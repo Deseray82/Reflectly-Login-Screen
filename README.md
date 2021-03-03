@@ -23,15 +23,27 @@
 
 [![Youtube](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg?sub_confirmation=1)
 
+## 📱 Gif #
+
+<img src="https://raw.githubusercontent.com/sagarshende23/reflectly-like-loginpage-flutter/master/gif.gif" width="1100">
 
 
 ## 📱 Screenshots #
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sagarshende23/truecaller_flutter_app/master/screenshots/flutter_truecaller.png" height="500" >
+  <img src="https://itsallwidgets.com/screenshots/app-966.png" width="250" hspace="4">
+  <img src="https://itsallwidgets.com/screenshots/app-966-1.png" width="250" hspace="4">
   
 </p>
 
+<h1 align="center">
+    <br>
+  Download the Following App for Preview 
+  <br>
+</h1>
+<p align="center">
+<a href="https://api.codemagic.io/artifacts/5068fdde-7c68-4c62-88f6-d214f0929bb5/df92eb39-1a3f-417a-bf51-1ceb20de707b/app.apk" title="Image from PNG Image"><img src="https://i.imgur.com/srMcFcx.png" height="115"width="300" alt="download android app png 4"></a>
+</p>
 
 
 
